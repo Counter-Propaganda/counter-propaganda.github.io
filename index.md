@@ -4,6 +4,8 @@
 
 И чтобы уничтожить преступный режим, мы должны уничтожить его мифы.
 
+# Ccылки
+
 Facebook Group: [facebook.com/groups/cprop](https://www.facebook.com/groups/counterpropaganda1)
 
 Telegram: [@counterpropaganda1](https://t.me/counterpropaganda1)
