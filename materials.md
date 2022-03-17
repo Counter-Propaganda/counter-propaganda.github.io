@@ -5,7 +5,7 @@ filename: materials.md
 
 ## Полезные материалы
 
-Пожалуйста, помогайте наполнить эту страницу. Вы можете предложить pull-request на github.
+Пожалуйста, помогайте наполнить эту страницу. Вы можете предложить pull-request на [github](https://github.com/Counter-Propaganda/counter-propaganda.github.io/edit/main/materials.md).
 
 ### Литература
 
