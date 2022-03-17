@@ -9,7 +9,9 @@
 
 1. Оставьте ваш анонимный контакт в [заявке активиста](https://docs.google.com/forms/d/e/1FAIpQLSfZqwrCG7DpmkZijqHcJV1-LI02HkUt4RQryueQrlW-WMUbWg/viewform?usp=sf_link), мы с вами свяжемся.
 
-2. Если вы умеете работать с github, вносите правки в этот веб-сайт, создав pull-request: (https://github.com/Counter-Propaganda/counter-propaganda.github.io)[github.com/Counter-Propaganda/counter-propaganda.github.io] 
+2. Если вы умеете работать с github, дополняйте этот веб-сайт на [github pages](https://github.com/Counter-Propaganda/counter-propaganda.github.io)
+
+[Полезные материалы](/materials)
 
 ## Контакты
 
